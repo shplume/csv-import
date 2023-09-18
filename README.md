@@ -1,2 +1,2 @@
-# csv-export
+# csv-import
 A csv import tool.
